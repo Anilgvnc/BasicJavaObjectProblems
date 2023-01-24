@@ -17,7 +17,7 @@ public class ArrayApplications {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         
-        /*//Reverse an array
+        //Reverse an array
         int firstInput[]  = new int [6]; 
         System.out.println("Enter six numbers: ");
         for (int i = 0; i < 6; i++) {
@@ -28,7 +28,6 @@ public class ArrayApplications {
         for (int i = 5; i >= 0; i--) {
             System.out.print(firstInput[i]);
         }
-        */
         
         //Print distinct numbers
         int distinctNum[] = new int [10];
